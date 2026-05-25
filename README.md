@@ -1,4 +1,3 @@
-# Hi, I'm Harshitha 👋
 <h1 align="center">Hi 👋, I'm Harshitha</h1>
 
 <h3 align="center">
