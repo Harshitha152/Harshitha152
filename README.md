@@ -65,14 +65,6 @@ Worked on visual storytelling and dashboard creation to simplify complex dataset
 
 ---
 
-## 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshitha152&theme=tokyo-night"/>
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 * Advanced Machine Learning Concepts
@@ -86,7 +78,6 @@ Worked on visual storytelling and dashboard creation to simplify complex dataset
 
 * LinkedIn: https://www.linkedin.com/in/harshitha-mekala-b10018351
 * GitHub: https://github.com/Harshitha152
-* Email: harshithamekala15@gmail.com
 
 ---
 
