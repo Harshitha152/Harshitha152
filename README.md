@@ -78,6 +78,7 @@ Worked on visual storytelling and dashboard creation to simplify complex dataset
 
 * LinkedIn: https://www.linkedin.com/in/harshitha-mekala-b10018351
 * GitHub: https://github.com/Harshitha152
+* Email: harshithamekala15@gmail.com
 
 ---
 
