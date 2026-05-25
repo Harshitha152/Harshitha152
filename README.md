@@ -1,43 +1,91 @@
 # Hi, I'm Harshitha 👋
+<h1 align="center">Hi 👋, I'm Harshitha</h1>
 
-I’m a 2026 undergraduate passionate about building practical, data-driven solutions using Python, SQL, Machine Learning, and Power BI. I enjoy working on projects that turn raw data into useful insights and solve real-world problems through analytics and automation.
+<h3 align="center">
+Python | SQL | Power BI | Machine Learning Enthusiast
+</h3>
 
-## What I Work With
+<p align="center">
+Building practical data analytics and machine learning projects focused on solving real-world problems.
+</p>
 
-* Python
-* SQL
-* Power BI
-* Machine Learning
-* HTML & CSS
-* Data Analysis & Visualization
+---
 
-## Featured Projects
+## 👩‍💻 About Me
 
-### 📊 Sales & Business Analytics Dashboard
+* 🎓 2026 Undergraduate passionate about Data Analytics and IT
+* 📊 Skilled in Python, SQL, Power BI, Machine Learning, HTML & CSS
+* 🔍 Interested in solving real-world problems using data-driven solutions
+* 🌱 Currently improving my skills in Machine Learning and Data Visualization
+* 💼 Open to remote internships and entry-level IT/Data Analytics opportunities
 
-Built interactive Power BI dashboards to analyze sales trends, KPIs, customer behavior, and business performance using real datasets.
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Sales Analytics Dashboard
+
+Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insights using real datasets.
 
 ### 🤖 Machine Learning Projects
 
-Worked on predictive models and data-driven applications using Python libraries like Pandas, NumPy, Scikit-learn, and Matplotlib.
+Built predictive models and analytics projects using Python, Pandas, NumPy, and Scikit-learn.
 
 ### 🗄 SQL Data Analysis
 
-Created SQL-based analysis projects focused on extracting insights, filtering business data, and improving reporting efficiency.
+Created SQL projects focused on extracting business insights, filtering datasets, and reporting analysis.
 
-## Currently Working On
+---
 
-* Improving my Machine Learning and Data Analytics skills
-* Building more real-world projects with better UI and deployment
-* Exploring remote opportunities in Data Analytics, IT, and Software roles
+## 📈 GitHub Stats
 
-## What You’ll Find Here
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshitha152&show_icons=true&theme=tokyonight" />
+</p>
 
-This GitHub contains hands-on projects, analytics dashboards, machine learning experiments, and problem-solving work that reflect my learning and technical growth.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitha152&layout=compact&theme=tokyonight" />
+</p>
 
-## Let’s Connect
+---
 
-* LinkedIn: https://www.linkedin.com/in/harshitha-mekala-b10018351
-* Email: harshithamekala15@gmail.com
+## 🔥 GitHub Streak
 
-I’m currently open to internships, remote opportunities, and entry-level IT/Data Analytics roles.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Harshitha152&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+[![Harshitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshitha152\&theme=tokyo-night)](https://github.com/Harshitha152)
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: YOUR_LINKEDIN_URL
+* Email: YOUR_EMAIL
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshitha152&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
