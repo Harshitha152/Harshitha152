@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshitha</h1>
 
-<h3 align="center">
-Python | SQL | Power BI | Machine Learning Enthusiast
-</h3>
+<h3 align="center">Python | SQL | Power BI | Machine Learning Enthusiast</h3>
 
 <p align="center">
 Building practical data analytics and machine learning projects focused on solving real-world problems.
@@ -12,27 +10,29 @@ Building practical data analytics and machine learning projects focused on solvi
 
 ## 👩‍💻 About Me
 
-* 🎓 2026 Undergraduate passionate about Data Analytics and IT
-* 📊 Skilled in Python, SQL, Power BI, Machine Learning, HTML & CSS
-* 🔍 Interested in solving real-world problems using data-driven solutions
-* 🌱 Currently improving my skills in Machine Learning and Data Visualization
+* 🎓 Recent 2026 Undergraduate focused on Data Analytics and IT
+* 📊 Hands-on experience in Python, SQL, Power BI, and Machine Learning
+* 🔍 Interested in transforming raw data into meaningful business insights
+* 🚀 Passionate about analytics, automation, dashboards, and problem-solving
 * 💼 Open to remote internships and entry-level IT/Data Analytics opportunities
 
 ---
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
 ---
 
@@ -40,51 +40,56 @@ Building practical data analytics and machine learning projects focused on solvi
 
 ### 📊 Sales Analytics Dashboard
 
-Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insights using real datasets.
+Developed an interactive Power BI dashboard to analyze sales trends, KPIs, customer behavior, and business performance using real-world datasets.
 
 ### 🤖 Machine Learning Projects
 
-Built predictive models and analytics projects using Python, Pandas, NumPy, and Scikit-learn.
+Built predictive models and analytics projects using Python, Pandas, NumPy, and Scikit-learn for data-driven problem solving.
 
 ### 🗄 SQL Data Analysis
 
-Created SQL projects focused on extracting business insights, filtering datasets, and reporting analysis.
+Created SQL-based projects focused on querying datasets, generating business insights, and improving reporting analysis.
+
+### 📈 Data Visualization Projects
+
+Worked on visual storytelling and dashboard creation to simplify complex datasets into meaningful insights.
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshitha152&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitha152&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harshitha152&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshitha152&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitha152&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📊 Contribution Graph
 
-[![Harshitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshitha152\&theme=tokyo-night)](https://github.com/Harshitha152)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshitha152&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Machine Learning Concepts
+* Data Visualization & Dashboard Optimization
+* SQL Query Optimization
+* Real-world Analytics Projects
 
 ---
 
 ## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/harshitha-mekala-b10018351
+* GitHub: https://github.com/Harshitha152
 * Email: harshithamekala15@gmail.com
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshitha152&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Harshitha152&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
