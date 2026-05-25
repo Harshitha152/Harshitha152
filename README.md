@@ -81,8 +81,8 @@ Created SQL projects focused on extracting business insights, filtering datasets
 
 ## 📫 Connect With Me
 
-* LinkedIn: YOUR_LINKEDIN_URL
-* Email: YOUR_EMAIL
+* LinkedIn: https://www.linkedin.com/in/harshitha-mekala-b10018351
+* Email: harshithamekala15@gmail.com
 
 ---
 
